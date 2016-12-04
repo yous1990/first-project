@@ -1,0 +1,37 @@
+.right-menu {
+	float: right;
+}
+
+.left-menu {
+	float: left;
+}
+#entete {
+	position: static;
+	padding: 5px 10px 5px 10px;
+	background-color: #eecfa1;
+	height: 20px;
+}
+
+.horizontal {
+	display: inline-block;
+	margin: 0 5px;
+}
+#navigation-btns > button {
+	width: 100px;
+
+}
+body {
+	margin:0px;
+}
+#corps {
+	padding: 20px;
+}
+#identity-foto > img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+#album {
+	height: 300px;
+	width: 400px;
+}
